@@ -1,15 +1,27 @@
 se-day-2-git-and-github
 
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+
+
 Fundamental concepts of version control:
+
+
 Repository - It is used to store files and the changes to the files.
+
 Working copy - This is a local copy of files in a project.
+
 Commit - Adds changes to repository.
+
 Branch - An independent line of development within a project.
+
 Merge -  Combines changes from one branch into another.
+
 Conflict - Occurs when two or more people change the same file.
 
-            Why GitHub is a popular tool for managing versions of code
+
+
+Why GitHub is a popular tool for managing versions of code
+
 GitHub offers a unique, user-friendly interface that allows a novice coder to take advantage of Git (What Is GitHub? Transforming How Developers Collaborate, 2025)
 It allows for many people to work on the same and separate features, for their changes to be easily reviewed before merging them to the current version. (Why Is GitHub so Important? : R/learnprogramming, 2022)
 
