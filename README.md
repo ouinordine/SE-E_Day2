@@ -17,7 +17,7 @@
 
 **Why GitHub is a popular tool for managing versions of code:** <br>
 
-GitHub offers a unique, user-friendly interface that allows a novice coder to take advantage of Git (What Is GitHub? Transforming How Developers Collaborate, 2025) <br>
+GitHub offers a unique, user-friendly interface that allows a novice coder to take advantage of Git _([What Is GitHub? Transforming How Developers Collaborate, 2025](https://everhour.com/blog/what-is-github/))_ <br>
 
 It allows for many people to work on the same and separate features, for their changes to be easily reviewed before merging them to the current version. (Why Is GitHub so Important? : R/learnprogramming, 2022) <br>
 
