@@ -81,12 +81,12 @@ Version control helps maintain project integrity by keeping a history of changes
 
 **_4. Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?_**
 
-**Public repositories** are accessible to anyone on the internet. Anyone can view, clone, and, in some cases, contribute to the code.
-**Advantages:**
-    i. Open Collaboration - They facilitate collaboration with a wide range of developers from around the world. This can lead to faster development, bug fixes, and feature additions.
-    ii. Community Building - Public repositories foster community engagement and can help build a user base for your project.
-    iii. Visibility and Exposure - They provide excellent visibility for your work, which can be beneficial for showcasing your skills and attracting potential employers.
-    iv. Open-Source Development - They are essential for open-source projects, promoting transparency and shared development.
+**Public repositories** are accessible to anyone on the internet. Anyone can view, clone, and, in some cases, contribute to the code.<br>
+**Advantages:**<br>
+    i. Open Collaboration - They facilitate collaboration with a wide range of developers from around the world. This can lead to faster development, bug fixes, and feature additions.<br>
+    ii. Community Building - Public repositories foster community engagement and can help build a user base for your project.<br>
+    iii. Visibility and Exposure - They provide excellent visibility for your work, which can be beneficial for showcasing your skills and attracting potential employers.<br>
+    iv. Open-Source Development - They are essential for open-source projects, promoting transparency and shared development.<br>
 **Disadvantages:**
     i. Security Risks - Public repositories expose your codebase to everyone, which can increase the risk of security vulnerabilities being discovered and exploited. Accidental exposure of sensitive information (like API keys) is a concern.
     ii. Intellectual Property Concerns - If you're working on proprietary code, a public repository is not suitable.
